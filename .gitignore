@@ -1,0 +1,12 @@
+# 忽略所有文件
+*
+
+# 但允许以下文件（白名单）
+!app.py
+!data/
+!data/ittf_women_*.csv
+!crawl_ittf_html.py
+!crawl_ittf_pdf.py
+!requirements.txt
+!README.md
+!.gitignore
