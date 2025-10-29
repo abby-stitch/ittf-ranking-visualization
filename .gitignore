@@ -3,6 +3,7 @@
 
 # 但允许以下文件（白名单）
 !app.py
+!demo.gif
 !data/
 !data/ittf_women_*.csv
 !crawl_ittf_html.py

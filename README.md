@@ -21,7 +21,7 @@ cd ittf-ranking-visualization
 
 2. 创建并激活 Conda 环境（推荐）：
 ```bash
-conda create -n ittf-env python=3.10
+conda create -n ittf-env python=3.11
 conda activate ittf-env
 ```
 
